@@ -9,13 +9,13 @@ An interactive three-page Power BI dashboard analyzing Airbnb market performance
 ## 📊 Dashboard Preview
 
 ### 1. Market Overview
-![Overview Dashboard](images/overview.png)
+![Overview Dashboard](images/Overview.png)
 
 ### 2. Market & Ratings Analysis
-![Ratings Dashboard](images/ratings.png)
+![Ratings Dashboard](images/Ratings.png)
 
 ### 3. Reviews, Seasonality & Trust
-![Reviews Dashboard](images/reviews.png)
+![Reviews Dashboard](images/Reviews.png)
 
 ---
 
